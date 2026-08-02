@@ -1,0 +1,1212 @@
+{
+  "clause-pseudo-agreement-c8fee8ea-1-91929806": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-concerning-the-adoption-of-harmonized-technical-united-nations-regulations-for-w-b518bab0-3-727237c7": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-addendum-151-un-regulation-no-152-1f48c217-7-123738a0": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-revision-2-eba6216d-9-f547b436": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-uniform-provisions-concerning-the-approval-of-motor-vehicles-with-regard-to-the-5fbb716c-17-a4e5357a": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-united-nations-46e2a128-19-26c51218": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-un-regulation-no-152-9973a6cf-23-1f062381": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-uniform-provisions-concerning-the-approval-of-motor-vehicles-with-regard-to-the-c7cc388e-25-1ffb325d": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-contents-f5cbdf6b-27-fc32f62f": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-annexes-db58c921-45-7be54e8b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-introduction-2473e96b-54-6731c47d": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-application-for-approval-d764bbdf-148-a46c29e5": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-approval-8cc047ac-164-5664a82c": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-specifications-0c709f98-198-95508407": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-warning-indication-0cc23675-470-b370c4c7": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-test-procedure-781a3a0b-510-469e1e47": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-modification-of-vehicle-type-and-extension-of-approval-bea71700-756-2262899f": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-conformity-of-production-1c48de7a-772-9f0d50c7": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-penalties-for-non-conformity-of-production-c756153b-786-9ae60016": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-names-and-addresses-of-the-technical-services-responsible-for-conducting-approva-66aba525-798-93083e8b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-communication-ade0d50c-837-1647411a": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-pseudo-arrangements-of-approval-marks-3be4b63d-883-2e5fca03": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "pseudo/front-matter stub"
+  },
+  "clause-1-859-9d2b9b0b": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "The clause is an administrative field that must be completed to identify the vehicle's trademark, thus a required document-management element."
+  },
+  "clause-2-2-82-ad49559c": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Provides the meaning of the term “Emergency Braking” without imposing a requirement."
+  },
+  "clause-2-3-86-6fe95f7b": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines the term “Collision Warning” and does not create an obligation."
+  },
+  "clause-2-4-90-f390353e": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Specifies the meaning of “Vehicle Type with Regard to its Advanced Emergency Braking System” as a classification, not a mandate."
+  },
+  "clause-2-5-96-8e3a239b": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Gives the definition of “Subject Vehicle” without prescribing any action."
+  },
+  "clause-2-6-100-9f65fc20": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Soft Target” and therefore carries no normative force."
+  },
+  "clause-2-7-104-078b236c": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Provides the meaning of “Vehicle Target” and is purely definitional."
+  },
+  "clause-2-8-108-43bde209": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Pedestrian Target” without imposing a requirement."
+  },
+  "clause-2-9-112-7232992d": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Specifies the meaning of “Bicycle Target” and is not a binding clause."
+  },
+  "clause-2-10-116-0525bcef": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Common Space” as an informational concept, not a mandate."
+  },
+  "clause-2-11-120-69a0450c": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Provides the definition of “Self-Check” without creating an obligation."
+  },
+  "clause-2-12-124-419b4146": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Time To Collision (TTC)” and carries no normative force."
+  },
+  "clause-2-13-128-da81a3a2": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Specifies the meaning of “Dry road” as a term, not a requirement."
+  },
+  "clause-2-14-132-678bbd21": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Peak braking coefficient (PBC)” and does not impose a duty."
+  },
+  "clause-2-15-136-5a6e91e4": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Provides the definition of “Initialisation” without any binding effect."
+  },
+  "clause-2-16-140-fc09b535": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Defines “Mass of a vehicle in running order” as a term, not a prescriptive clause."
+  },
+  "clause-2-17-144-aff69e45": {
+    "category": "definition",
+    "force": "none",
+    "reasoning": "Specifies the meaning of “Maximum mass” and carries no normative requirement."
+  },
+  "clause-3-861-cf0ce80a": {
+    "category": "administrative",
+    "force": "none",
+    "reasoning": "It is a heading that groups sub‑clauses and contains no binding requirement."
+  },
+  "clause-3-2-1-154-44256977": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "The clause mandates the provision of a description, documentation package and the specification of identifiers, using ‘shall’."
+  },
+  "clause-3-3-158-e1a8915a": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It requires the submission of a vehicle representative to the Technical Service, expressed with ‘shall’."
+  },
+  "clause-4-862-27121ab7": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a heading that only groups the following sub‑clauses and contains no substantive requirement."
+  },
+  "clause-4-1-166-53996692": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It mandates that approval shall be granted when the vehicle type meets the specified requirements."
+  },
+  "clause-4-2-170-5703c7d2": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It requires the assignment of an approval number and sets constraints on its composition and reuse."
+  },
+  "clause-4-3-174-451651db": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It obliges the communication of approval, refusal or withdrawal using the model form specified in Annex 1."
+  },
+  "clause-4-4-178-ba093c94": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It commands that an international approval mark, as described in Annex 2, must be affixed to every approved vehicle."
+  },
+  "clause-4-4-1-180-a2a7be26": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It specifies the required content of the approval mark – a circle with the letter “E” and the country’s distinguishing number."
+  },
+  "clause-4-4-2-184-6e5b42a0": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It defines the additional required element of the mark – the regulation number, letter “R”, a dash and the approval number."
+  },
+  "clause-4-5-188-65bea31e": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It sets the conditions and layout for the approval mark when the vehicle is already approved under other regulations."
+  },
+  "clause-4-7-194-ab785076": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It requires that the approval mark be placed close to or on the vehicle data plate."
+  },
+  "clause-5-863-c7dbe158": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Section title that only groups sub‑clauses and contains no substantive requirement."
+  },
+  "clause-5-1-200-52f85215": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the general‑requirements group, not a binding clause."
+  },
+  "clause-5-1-1-204-0d82d945": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies that any vehicle with an AEBS shall meet listed performance requirements, using mandatory language."
+  },
+  "clause-5-1-1-2-210-487ed472": {
+    "category": "informative",
+    "force": "binding",
+    "reasoning": "Provides a reference to another paragraph that must be complied with; it is not a standalone requirement but part of a binding clause."
+  },
+  "clause-5-1-1-3-214-557548bb": {
+    "category": "informative",
+    "force": "binding",
+    "reasoning": "References a specific paragraph for the pedestrian scenario; serves as informative cross‑reference within a binding requirement."
+  },
+  "clause-5-1-1-4-218-3e0d1252": {
+    "category": "informative",
+    "force": "binding",
+    "reasoning": "References the bicycle‑scenario paragraph; informative content that is nevertheless part of the binding obligation."
+  },
+  "clause-5-1-2-222-6e746f6b": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates that AEBS performance must not be degraded by magnetic or electrical fields, using “shall”."
+  },
+  "clause-5-1-4-228-07bb9636": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Sub‑heading introducing the warning‑related clauses."
+  },
+  "clause-5-1-4-1-232-6be9bd7d": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires a failure warning to be provided when the AEBS cannot meet the regulation, expressed with “shall”."
+  },
+  "clause-5-1-4-1-1-236-d3be9864": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies timing requirements for self‑check and warning illumination, using mandatory language."
+  },
+  "clause-5-1-4-1-2-240-dfa8f5f8": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges the system to indicate status after 15 s of cumulative driving above 10 km/h until successful initialisation."
+  },
+  "clause-5-1-4-1-3-242-5effdf76": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates illumination of the warning signal upon any non‑electrical failure condition."
+  },
+  "clause-5-1-4-2-244-88b6d1d7": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires a de‑activation warning when the AEBS is manually deactivated, expressed with “shall”."
+  },
+  "clause-5-1-5-248-dbbe1081": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges the system to provide emergency‑braking interventions as described in referenced paragraphs."
+  },
+  "clause-5-1-6-252-c630c0cd": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates design measures to minimise false warnings and advanced braking, with demonstration required in Annex 3."
+  },
+  "clause-5-1-7-256-6c5f3342": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires compliance with performance requirements of UN Regulation 13‑H/13 and anti‑lock braking function, using “shall”."
+  },
+  "clause-5-2-263-dd6a22d8": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Numeric heading that only groups the scenario‑specific clauses."
+  },
+  "clause-5-2-1-264-5e1aa34f": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the car‑to‑car scenario, no substantive requirement."
+  },
+  "clause-5-2-1-1-268-abf580e3": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies when a collision warning must be provided and the latest trigger time, using mandatory language."
+  },
+  "clause-5-2-1-2-278-9903c774": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates a minimum braking demand of 5.0 m/s² and links the test to specific regulation paragraphs."
+  },
+  "clause-5-2-1-3-286-cf501716": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Defines the speed range in which the system must be active, expressed with “shall”."
+  },
+  "clause-5-2-1-4-290-e31a30a9": {
+    "category": "performance_data",
+    "force": "binding",
+    "reasoning": "Provides quantitative impact‑speed limits and test conditions that constitute pass/fail criteria."
+  },
+  "clause-5-2-2-316-78ceb85d": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the car‑to‑pedestrian scenario, no substantive requirement."
+  },
+  "clause-5-2-2-1-318-6f517380": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires a collision warning for a pedestrian crossing at 5 km/h, with timing constraints, using mandatory language."
+  },
+  "clause-5-2-2-2-324-6beea5be": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates a minimum braking demand of 5.0 m/s² for pedestrian scenarios and references the test paragraph."
+  },
+  "clause-5-2-2-3-332-b932afeb": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies the speed range (20–60 km/h) in which the system must be active for pedestrian scenarios."
+  },
+  "clause-5-2-2-4-338-3b5aa46f": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates that the AEBS shall achieve an impact speed not exceeding the table value, a behavioral requirement."
+  },
+  "clause-5-2-3-367-aa7e020b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Serves only as a heading grouping the following sub‑clauses."
+  },
+  "clause-5-2-3-1-371-d1469bad": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires the system to provide a collision warning no later than emergency braking, a mandatory action."
+  },
+  "clause-5-2-3-2-379-cc669cfd": {
+    "category": "performance_data",
+    "force": "binding",
+    "reasoning": "Specifies a minimum braking demand of 5.0 m/s², a threshold value for compliance."
+  },
+  "clause-5-2-3-3-387-4a6827ea": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges the system to be active within the speed range 20–60 km/h, a required behavior."
+  },
+  "clause-5-2-3-4-393-16237c2f": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires the AEBS to achieve an impact speed not exceeding the table values under listed conditions."
+  },
+  "clause-5-3-420-4978d32a": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading that only groups the interruption clauses."
+  },
+  "clause-5-3-1-422-4e65fc91": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates that the AEBS provide means for the driver to interrupt warning and braking."
+  },
+  "clause-5-3-2-426-752f21bf": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires the manufacturer to supply a list of positive actions and annex it to the test report."
+  },
+  "clause-5-4-428-def5443e": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading grouping deactivation requirements."
+  },
+  "clause-5-4-1-430-b56f7fa0": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Sub‑heading for manual deactivation conditions."
+  },
+  "clause-5-4-1-1-434-68d77486": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies that the AEBS must automatically reinstate at each new ignition cycle."
+  },
+  "clause-5-4-1-2-438-44a705ef": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires the control to prevent manual deactivation with fewer than two deliberate actions."
+  },
+  "clause-5-4-1-3-442-0ac1c453": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges installation to comply with UN Regulation No. 121 and its amendments."
+  },
+  "clause-5-4-1-4-446-1b68c3a6": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Prohibits manual deactivation above 10 km/h, a mandatory limitation."
+  },
+  "clause-5-4-2-450-d014b27c": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for automatic deactivation provisions."
+  },
+  "clause-5-4-2-2-456-6ca581a8": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates automatic re‑activation once deactivation conditions cease."
+  },
+  "clause-5-4-2-3-460-32fa700b": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires at least two deliberate driver actions when deactivation follows ESC switch‑off."
+  },
+  "clause-5-4-3-464-22de0f7f": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges a constant optical warning signal to indicate AEBS deactivation."
+  },
+  "clause-5-5-473-61950e49": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading that groups warning‑indication clauses."
+  },
+  "clause-5-5-2-474-3c26c058": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires the manufacturer to provide and record a description of the warning indication."
+  },
+  "clause-5-5-3-478-1d788e84": {
+    "category": "informative",
+    "force": "none",
+    "reasoning": "Offers optional guidance that the optical signal may be the flashing failure warning signal."
+  },
+  "clause-5-5-4-482-9b7af81d": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates that the failure warning be a constant yellow optical signal."
+  },
+  "clause-5-5-5-486-85fd2c66": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies when AEBS optical warning signals must be activated and their visibility requirements."
+  },
+  "clause-5-5-7-490-37ed0305": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires a constant optical signal when the AEBS is temporarily unavailable."
+  },
+  "clause-5-6-494-f51c306d": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for periodic technical inspection provisions."
+  },
+  "clause-5-6-1-498-f880094d": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Obliges that a periodic inspection be able to confirm AEBS status via visible observation of the failure warning."
+  },
+  "clause-5-6-2-504-a3dcba7f": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "The clause imposes a mandatory requirement using 'shall' for how protection must be outlined or alternatively satisfied, making it a binding obligation."
+  },
+  "clause-6-864-fe364fed": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "Specifies a required data field (date) that must be provided for approval."
+  },
+  "clause-6-1-513-ab3d5f0b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Serves as a heading that groups the following test‑procedure clauses."
+  },
+  "clause-6-1-1-514-f8db968c": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Mandates the type of surface on which the test shall be performed."
+  },
+  "clause-6-1-1-1-518-46356a13": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Sets a quantitative requirement for the peak braking coefficient of the test surface."
+  },
+  "clause-6-1-1-2-522-41cac57e": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Prescribes the reference tyre and standard to be used during the test."
+  },
+  "clause-6-1-1-3-526-b2f646a3": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Specifies the k‑test method that must be applied for surface measurement."
+  },
+  "clause-6-1-1-4-530-68706c36": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Requires the test surface slope to be within a defined range."
+  },
+  "clause-6-1-2-534-6d5c9bdd": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Defines the permissible ambient temperature interval for the test."
+  },
+  "clause-6-1-3-538-9ef198f8": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Sets visibility and wind‑free requirements that must be met during testing."
+  },
+  "clause-6-1-5-544-f72a781f": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Mandates minimum illumination levels for the different test scenarios."
+  },
+  "clause-6-1-6-548-59e3d688": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Allows deviation from standard conditions only with manufacturer request and technical‑service agreement."
+  },
+  "clause-6-2-550-2ccdf940": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading that groups vehicle‑condition clauses."
+  },
+  "clause-6-2-1-552-02662f6f": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Specifies the test mass, additional load, load distribution and fuel‑level limits for the vehicle."
+  },
+  "clause-6-2-2-566-487626dc": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading introducing pre‑test conditioning requirements."
+  },
+  "clause-6-2-2-1-570-0b95874f": {
+    "category": "test_condition",
+    "force": "binding",
+    "reasoning": "Describes optional conditioning steps that must be performed if requested by the manufacturer."
+  },
+  "clause-6-2-2-2-578-55b0ac7d": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "Requires documentation of the pre‑test conditioning strategy in the approval file."
+  },
+  "clause-6-2-3-582-f476b1d9": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "Obliges the identification and recording of the mounted tyres in the approval documentation."
+  },
+  "clause-6-3-587-b36ac8ea": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading that introduces target‑definition clauses."
+  },
+  "clause-6-3-1-588-84d18051": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Defines the required vehicle target type and reference point for detection tests."
+  },
+  "clause-6-3-2-592-1240f321": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Specifies the pedestrian target type and its compliance reference."
+  },
+  "clause-6-3-3-596-28b87494": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "Sets the bicycle target type and its reference standard."
+  },
+  "clause-6-3-4-600-9e8eb1f4": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "Requires recording of detailed target identification data in the approval file."
+  },
+  "clause-6-4-604-99bbbc7c": {
+    "category": "test_execution",
+    "force": "binding",
+    "reasoning": "Provides the step‑by‑step procedure and speed requirements for the stationary‑target warning and activation test."
+  },
+  "clause-6-5-628-6338fbb8": {
+    "category": "test_execution",
+    "force": "binding",
+    "reasoning": "Describes the execution steps and speed parameters for the moving‑target warning and activation test."
+  },
+  "clause-6-6-652-737cc506": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading that introduces the pedestrian‑target warning and activation test."
+  },
+  "clause-6-6-1-656-3a604b45": {
+    "category": "test_execution",
+    "force": "binding",
+    "reasoning": "Details the approach, offset, TTC, and speed requirements for the pedestrian‑target test."
+  },
+  "clause-6-6-2-682-e7dabaa6": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "The clause mandates how impact speed shall be assessed, using the word 'shall' and is part of the normative body."
+  },
+  "clause-6-7-689-a485bbbc": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is only a numeric heading without substantive requirement."
+  },
+  "clause-6-7-1-690-04c05573": {
+    "category": "test_execution",
+    "force": "binding",
+    "reasoning": "The paragraph prescribes step‑by‑step actions (approach line, speed, TTC) that the vehicle must follow during the test."
+  },
+  "clause-6-8-718-b84b6186": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It serves as a section title for the Failure Detection Test."
+  },
+  "clause-6-8-1-722-f8da7f10": {
+    "category": "test_setup",
+    "force": "binding",
+    "reasoning": "It specifies how to prepare the test by simulating an electrical failure."
+  },
+  "clause-6-8-2-726-743b7b6a": {
+    "category": "performance_data",
+    "force": "binding",
+    "reasoning": "The clause defines quantitative limits (activation within 10 s, speed >10 km/h) for the warning signal."
+  },
+  "clause-6-9-730-a7763d41": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a heading introducing the Deactivation Test."
+  },
+  "clause-6-9-1-732-41e01724": {
+    "category": "test_execution",
+    "force": "binding",
+    "reasoning": "It details the procedural steps (ignition on/off, signal verification) that must be performed."
+  },
+  "clause-6-10-736-f8095bfe": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a heading for the Robustness of the system section."
+  },
+  "clause-6-10-1-740-08a8baae": {
+    "category": "performance_data",
+    "force": "binding",
+    "reasoning": "The clause sets numeric acceptance criteria (two runs, max 10 %/20 % failure rates)."
+  },
+  "clause-6-10-2-746-7e180a5d": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It requires the analysis of any failed test run and reporting, using 'shall'."
+  },
+  "clause-6-10-3-750-32c784f6": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It obligates the manufacturer to demonstrate system performance via documentation."
+  },
+  "clause-7-865-15979a22": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a section heading that only groups the following sub‑clauses and contains no substantive requirement."
+  },
+  "clause-7-1-761-5b8b9d84": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a sub‑heading introducing a topic and does not itself impose any requirement."
+  },
+  "clause-7-1-2-762-e8866f4f": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "The clause mandates that communications, notifications and serial‑number assignments shall be performed, which are binding requirements."
+  },
+  "clause-8-866-f1bb36cd": {
+    "category": "administrative",
+    "force": "none",
+    "reasoning": "The clause is a data‑field label for the report date, not a binding requirement."
+  },
+  "clause-8-1-774-bf026917": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It mandates that conformity‑of‑production procedures shall comply with the referenced agreement."
+  },
+  "clause-8-2-778-eaf05389": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It requires that any approved vehicle be manufactured to conform to the type‑approval specifications."
+  },
+  "clause-8-3-782-db540575": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "It imposes a mandatory inspection frequency (once every two years) for the Type Approval Authority."
+  },
+  "clause-9-867-8d17a8a5": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "Specifies a required data field for the approval report, a document‑management element that must be provided."
+  },
+  "clause-9-2-790-3f4ee9f7": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates that a Contracting Party shall notify others of a withdrawn approval, a binding requirement."
+  },
+  "clause-10-869-b2c40ef8": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a section heading that only groups the following clauses and carries no substantive requirement."
+  },
+  "clause-10-1-871-3988bd22": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "It records the official approval decision for the car‑to‑car scenario, which is a binding outcome of the approval process."
+  },
+  "clause-10-2-872-e2a23517": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "It records the official approval decision for the car‑to‑pedestrian scenario, constituting a binding part of the approval communication."
+  },
+  "clause-10-3-873-64ae9d47": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "It records the official approval decision for the car‑to‑bicycle scenario, making it a binding element of the approval record."
+  },
+  "clause-11-874-ceb55f9b": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "The clause specifies a required field (place) in the approval document, which is a binding administrative element of the regulatory process."
+  },
+  "clause-12-875-6085cae4": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a heading for the date field and contains no substantive requirement."
+  },
+  "clause-12-1-804-fe36c08e": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "A grouping heading for the 01‑series transitional provisions, not a requirement."
+  },
+  "clause-12-1-1-808-82c079d6": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Uses ‘shall’ to mandate that no Party may refuse approvals after the entry‑into‑force date."
+  },
+  "clause-12-1-2-812-0ea61002": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Specifies a mandatory limitation (‘shall not be obliged’) on accepting certain approvals."
+  },
+  "clause-12-1-3-816-612dbf92": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Imposes a required action (‘shall accept’) for approvals issued before a date."
+  },
+  "clause-12-1-4-820-7927dca3": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates a negative obligation (‘shall not be obliged’) regarding acceptance of approvals."
+  },
+  "clause-12-1-5-824-02f4d2f5": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires continued acceptance of certain approvals, expressed with ‘shall continue to accept’."
+  },
+  "clause-12-2-825-8f645dee": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "A heading grouping the 02‑series transitional provisions, no substantive rule."
+  },
+  "clause-12-2-1-826-8b053adc": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Contains a ‘shall’ requirement that Parties must not refuse approvals after the entry‑into‑force date."
+  },
+  "clause-12-2-2-827-6ba7e659": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Uses ‘shall not be obliged’ to set a mandatory limitation on acceptance of prior approvals."
+  },
+  "clause-12-2-3-828-3f874459": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Imposes a required acceptance (‘shall accept’) of approvals issued before a specific date."
+  },
+  "clause-12-2-4-829-933245be": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Mandates a negative obligation (‘shall not be obliged’) concerning acceptance of certain approvals."
+  },
+  "clause-12-2-5-830-26f32f9c": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Requires continued acceptance of approvals for unaffected vehicles, expressed with ‘shall continue to accept’."
+  },
+  "clause-12-3-831-b56d6e21": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "A heading for general transitional provisions, serving only as a structural label."
+  },
+  "clause-12-3-1-832-8e105c08": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Although phrased with ‘may’, it defines a permitted action that is a normative rule for Parties."
+  },
+  "clause-12-3-2-833-c8a9d346": {
+    "category": "obligation",
+    "force": "binding",
+    "reasoning": "Contains a clear ‘shall continue to grant’ requirement, creating a binding obligation."
+  },
+  "clause-13-876-9704d869": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "The clause specifies the required signature field for the approval document, a mandatory administrative element for the approval to be valid."
+  },
+  "clause-14-877-8c68e844": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "The clause lists the documents annexed to the approval communication, serving an administrative function and is part of the official, enforceable approval record."
+  },
+  "clause-15-879-859b198b": {
+    "category": "administrative",
+    "force": "binding",
+    "reasoning": "The clause defines a required field in the approval document for optional comments, which is a document‑management element and thus administrative, and its inclusion is a binding part of the form."
+  },
+  "clause-Annex-3-895-bb1804c8": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "It is a top‑level heading that only groups the annex content and contains no substantive requirement."
+  },
+  "clause-1-899-5483f22c": {
+    "category": "informative",
+    "force": "example",
+    "reasoning": "The paragraph explains the purpose of the annex and is part of an illustrative annex, so it is non‑binding informative content."
+  },
+  "clause-2-911-76c701c9": {
+    "category": "definition",
+    "force": "example",
+    "reasoning": "It introduces the definitions used in the annex and, being in an informative annex, is an illustrative definition."
+  },
+  "clause-2-2-917-5885357d": {
+    "category": "definition",
+    "force": "example",
+    "reasoning": "Provides the meanings of “Safety Concept” and “Electronic Control System”, which are definitional clauses in an example annex."
+  },
+  "clause-3-937-249af5d7": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Mandates that the manufacturer shall provide a documentation package, a binding‑style requirement presented as an example."
+  },
+  "clause-3-2-2-965-a5598959": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires the provision of a list of all output variables, phrased with “shall”, but it is part of an illustrative annex."
+  },
+  "clause-3-2-3-969-07a7d018": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Obliges the applicant to state limits defining functional boundaries, using “shall” within an example annex."
+  },
+  "clause-3-3-973-2021644a": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Serves as a sub‑heading for the following detailed clauses and carries no normative content."
+  },
+  "clause-3-3-1-977-fb08fc5f": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Specifies that a list of components and a schematic shall be provided, a requirement in the illustrative annex."
+  },
+  "clause-3-3-2-985-79e0283c": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Mandates outlining the function of each unit and showing signal links, expressed with “shall” in an example annex."
+  },
+  "clause-3-3-3-989-886cc307": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires interconnections to be shown by diagrams, a “shall” statement within the sample annex."
+  },
+  "clause-3-3-4-993-b378a7d5": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Obliges a clear correspondence of transmission links and the statement of signal priorities, a requirement in an illustrative annex."
+  },
+  "clause-3-3-5-997-057bafdc": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Stipulates that each unit shall be identifiable, a binding‑style clause presented as an example."
+  },
+  "clause-3-3-5-1-1005-a7dd2b45": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires the identification to reflect hardware/software version changes, expressed with “shall” in the example annex."
+  },
+  "clause-3-4-1009-86951d79": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Functions as a heading for the manufacturer’s safety‑concept clauses and contains no substantive requirement."
+  },
+  "clause-3-4-1-1013-2d74806a": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Mandates the manufacturer to provide a statement affirming safe‑operation strategy, a “shall” requirement in an illustrative annex."
+  },
+  "clause-3-4-2-1017-3c48bc41": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Obliges explanation of software architecture and evidence of design methods, phrased with “shall” within the example annex."
+  },
+  "clause-3-4-3-1021-d4bd889d": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires the manufacturer to explain design provisions for fault conditions, a binding‑style clause presented as an example."
+  },
+  "clause-3-4-3-1-1031-800fb721": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Specifies that partial‑performance conditions and limits shall be stated, a “shall” requirement in the illustrative annex."
+  },
+  "clause-3-4-3-2-1035-39187fe8": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Obliges explanation of back‑up mechanisms and definition of their effectiveness limits, expressed with “shall” in an example annex."
+  },
+  "clause-3-4-3-3-1039-b8b8f301": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Specifies a mandatory action (signals shall be inhibited) thus a behavioural requirement, but it is inside an informative annex."
+  },
+  "clause-3-4-4-1043-c5e63ce3": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires the documentation to be supported by analysis and inspection, a binding‑type mandate presented as an illustrative example."
+  },
+  "clause-3-4-4-1-1062-b20df437": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Mandates that documentation itemise parameters and warning signals, a behavioural requirement shown as an example."
+  },
+  "clause-3-4-4-2-1066-f99cf515": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Obliges description of measures to avoid prejudice under environmental conditions, a requirement presented illustratively."
+  },
+  "clause-4-1070-339e3c8b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Serves as a section heading that only groups the following clauses."
+  },
+  "clause-4-1-1074-0503207f": {
+    "category": "test_procedure",
+    "force": "example",
+    "reasoning": "Introduces a generic testing requirement for the system, fitting the legacy test_procedure category and is illustrative."
+  },
+  "clause-4-1-1-1078-73b39716": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Describes step‑by‑step verification of functions under non‑fault conditions, a test execution example."
+  },
+  "clause-4-1-2-1086-d3776e65": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Specifies how to verify the safety concept by applying fault signals, a procedural test execution presented as an example."
+  },
+  "clause-4-1-2-1-1094-90005302": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Requires verification results to correspond with documented analysis, a binding‑type statement shown illustratively."
+  },
+  "clause-5-1098-7fdcf2c6": {
+    "category": "obligation",
+    "force": "example",
+    "reasoning": "Mandates the Technical Service to report in a traceable way, a reporting obligation presented as an example."
+  },
+  "clause-Annex-3-Appendix-1-1106-2aa52e01": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Title of a model assessment form, functioning only as a heading."
+  },
+  "clause-1-1111-60d3a740": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the identification section of the model form."
+  },
+  "clause-1-1-1112-25fca5be": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for vehicle make, part of a specimen document."
+  },
+  "clause-1-2-1113-5059aa9f": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for type, included in the example assessment form."
+  },
+  "clause-1-3-1114-2f1a4757": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for means of identification, illustrative content."
+  },
+  "clause-1-4-1115-12775ab7": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for location of marking, part of the model form."
+  },
+  "clause-1-5-1116-a26e9751": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for manufacturer’s name and address, example data entry."
+  },
+  "clause-1-6-1117-4f4dd948": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for representative contact, shown as a sample."
+  },
+  "clause-1-7-1118-37db761c": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "A form field for documentation package reference, illustrative."
+  },
+  "clause-2-1119-68929e3a": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the test vehicle/system description section."
+  },
+  "clause-2-1-1120-df7edfe7": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for a general description, part of the example form."
+  },
+  "clause-2-2-1121-0bbc44de": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field describing control functions, illustrative content."
+  },
+  "clause-2-3-1122-45ae90e2": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for component and diagram description, example entry."
+  },
+  "clause-3-1123-c5e4b4a5": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the manufacturer’s safety concept section."
+  },
+  "clause-3-1-1124-3780cef4": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for signal flow and priority description, illustrative."
+  },
+  "clause-3-2-1125-5b0fcb58": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Manufacturer’s declaration field, part of the sample form."
+  },
+  "clause-3-3-1126-c5bbfd0b": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for software architecture outline, example content."
+  },
+  "clause-3-4-1127-4d7b2cbb": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for design provisions under fault conditions, illustrative."
+  },
+  "clause-3-5-1128-47edb6df": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for documented analyses of hazard/fault behaviour, example."
+  },
+  "clause-3-6-1129-2c70d21c": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field describing measures for environmental conditions, illustrative."
+  },
+  "clause-3-7-1130-a4bb5ad3": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for periodic technical inspection provisions, sample entry."
+  },
+  "clause-3-8-1131-4b00263b": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for verification test results, part of the model form."
+  },
+  "clause-3-9-1132-f0ecb1cb": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for safety concept verification results, illustrative."
+  },
+  "clause-3-10-1133-cba8df5d": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for date of test, example data entry."
+  },
+  "clause-3-11-1134-fe71414c": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field confirming test execution and reporting, illustrative."
+  },
+  "clause-3-12-1140-8eadd5db": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for Type Approval Authority signature and date, sample content."
+  },
+  "clause-3-13-1142-1ab10e77": {
+    "category": "administrative",
+    "force": "example",
+    "reasoning": "Field for comments, part of the example assessment form."
+  },
+  "clause-Annex-3-Appendix-2-1144-20929d79": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Heading for the false reaction scenarios annex."
+  },
+  "clause-3-1-1214-6beabaa4": {
+    "category": "informative",
+    "force": "example",
+    "reasoning": "Provides a descriptive, non‑binding illustration of a test scenario within an informative annex."
+  },
+  "clause-3-2-1218-ecbfda64": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Gives a step‑by‑step illustrative procedure with speed and TTC values, serving as a sample test execution."
+  },
+  "clause-4-1-1231-efa0e8d7": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Describes an example lane‑change maneuver with detailed speed and timing data, functioning as a sample execution."
+  },
+  "clause-Scenario-1-1180-2d9ef14e": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Presents an illustrative left/right turn at an intersection with explicit speed and TTC thresholds."
+  },
+  "clause-Scenario-2-1193-5ccb4600": {
+    "category": "test_execution",
+    "force": "example",
+    "reasoning": "Offers a sample forward‑vehicle turn scenario including procedural speed and deceleration details."
+  },
+  "clause-Scenario-3-1210-11ea290b": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Serves only as a heading for a scenario without substantive normative content."
+  },
+  "clause-Scenario-4-1227-5ef476f8": {
+    "category": "formatting",
+    "force": "none",
+    "reasoning": "Acts as a title for a scenario and contains no binding or illustrative requirement."
+  },
+  "clause-2-860-b27b86c6": {
+    "category": "informative",
+    "force": "none",
+    "reasoning": "unclassified — defaulted"
+  }
+}

@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Compiled LaTeX
+thesis/*.aux
+thesis/*.bbl
+thesis/*.bcf
+thesis/*.blg
+thesis/*.fdb_latexmk
+thesis/*.fls
+thesis/*.lof
+thesis/*.log
+thesis/*.lot
+thesis/*.out
+thesis/*.run.xml
+thesis/*.synctex.gz
+thesis/*.toc
+thesis/*.pdf
+
+# Generated PDF artifacts (keep the regulation reference PDF and source table)
+literature/out.pdf
+
+# Large raw data (MinerU/Docling processed files live outside thesis-code)
+thesis/data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Neo4j Docker volume (managed by Docker, not git)
+visualize/data/
+
+# Streamlit cache
+.streamlit/
+
+# Chat UI: user uploads and the MinerU venv (both regenerated locally)
+chat_ui/uploads/
+chat_ui/venv_mineru/
+
+# Thesis writing (kept out of the code repo — text, notes, personal write-ups)
+/thesis/
+/thesis_notes/
+/literature/
+/graphrag-for-regulatory-documents/
+/Thesis_scope.tex
+/*.txt
+/*.pdf
+
+# Superseded by regulatory_testgen/ (merged v1 parser + v2 pipeline into one package)
+/regulatory_testgen_v2/
+/refactored_regulatory_testgen/
+
+# Standalone author-side tooling not used by the chat_ui/regulatory_testgen demo
+/tools/
+/visualize/
+/evaluate/
+/run_targeted.py
+/extracted_scenarios_number.csv

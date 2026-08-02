@@ -1,0 +1,17 @@
+services:
+  chat_ui:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      # Optional: prefills the API-key field for the "OpenAI · gpt-4.1-mini"
+      # preset in the sidebar. Leave unset to use the keyless vLLM presets
+      # (only reachable from the isys internal network) or the "Custom…"
+      # option with your own OpenAI-compatible endpoint.
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+    volumes:
+      # Persist uploaded-document caches across container restarts.
+      - uploads:/app/chat_ui/uploads
+
+volumes:
+  uploads:

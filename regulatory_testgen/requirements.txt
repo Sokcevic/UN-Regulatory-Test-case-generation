@@ -1,0 +1,8 @@
+# Dependencies for regulatory_testgen
+# Requires Python 3.12 (Dynamiq caps at <3.14).
+
+pydantic>=2.7,<3.0
+beautifulsoup4>=4.12,<5.0
+llama-index-core>=0.12
+llama-index-llms-openai-like>=0.7
+dynamiq>=0.50
